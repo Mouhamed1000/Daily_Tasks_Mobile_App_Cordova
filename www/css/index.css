@@ -1,0 +1,7 @@
+label[for='task'] {
+    text-align: center;
+}
+
+.termine {
+    text-decoration: line-through;
+}
