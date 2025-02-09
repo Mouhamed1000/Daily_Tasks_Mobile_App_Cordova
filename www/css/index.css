@@ -1,0 +1,15 @@
+label[for='task'] {
+    text-align: center;
+}
+
+.termine {
+    text-decoration: line-through;
+}
+
+h3 {
+    text-align: center;
+}
+
+.otherTasks {
+    margin-top: 100px;
+}
